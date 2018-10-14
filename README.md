@@ -14,8 +14,8 @@ $ go get github.com/syaning/chalk
 package main
 
 import (
-	"chalk"
-	"fmt"
+	"fmt",
+	"github.com/syaning/chalk"
 )
 
 func main() {
